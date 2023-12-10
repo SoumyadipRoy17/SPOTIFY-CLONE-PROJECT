@@ -344,5 +344,6 @@ a {
 
 .badge:hover {
   cursor: pointer;
-  box-shadow: 2.5px 2.5px 1.5px 1.5px whitesmoke;
+
+  filter: drop-shadow(0 0 0.25rem #1bd760);
 }
